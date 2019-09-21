@@ -1,1 +1,1 @@
-Room , MVVM ,Executors, Single Source of Truth Principal
+Room (cache)  , MVVM ,Executors, Single Source of Truth Principal
